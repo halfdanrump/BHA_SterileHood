@@ -1,2 +1,10 @@
 # BHA_SterileHood
-Sterile hood
+
+BioHack Academy Sterile hood
+
+* Bill of Materials
+* Sketchup file
+
+Archive contains:
+
+* BHA 2015-1 "BioFactory" Design
