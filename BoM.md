@@ -7,7 +7,7 @@ This time we will not use a microprocessor.
 |No|Amount|Description|Supplier NL|Cost|
 | ------------: | ------------: | :------------ | :------------ | ------------: |
 |1|1|HEPA Filter|[OfficeStuff](http://www.officestuff.nl/producten/9370101-hepa_filter_large/)|35.82|
-|2|1|270 m<sup>3</sup>/h kitchen fan http://global.rakuten.com/en/store/e-kurashi/item/qxa88/|2990 JPY|
+|2|1|270 m<sup>3</sup>/h kitchen fan | http://global.rakuten.com/en/store/e-kurashi/item/qxa88/|2990 JPY|
 |3|6| 600mm X 45mm X 3mm acrylic plates
 |4|1|Pre filter (generic kitchen hood filter)|||
 
